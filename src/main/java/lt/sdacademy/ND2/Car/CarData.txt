@@ -1,0 +1,6 @@
+Mazda3,2,2000,12000,kupe
+Toyota,2,1984,23455,sedanas
+Opel 3,2,2000,12000,kupe
+Toyota Corolla,2,1984,12356,sedanas
+Mazda 3,2,2000,12000,kupe
+Toyota Corolla,2,1984,12324,sedanas

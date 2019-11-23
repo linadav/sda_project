@@ -1,0 +1,3 @@
+Beke,14,cinamon
+Gogo,2,black
+Lila,5,brown
